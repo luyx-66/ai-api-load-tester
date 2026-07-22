@@ -33,6 +33,12 @@ Only load-test systems you own or are authorized to test. Start small and stay w
 - [Review current model pricing](https://apimart.ai/pricing?utm_source=github&utm_medium=opensource&utm_campaign=ai_api_load_tester&utm_content=pricing)
 - [Read the API quickstart](https://docs.apimart.ai/en/quickstart)
 
+## Related high-volume AI API tools
+
+- [LLM API Cost Calculator](https://github.com/luyx-66/llm-api-cost-calculator) — estimate token, image, and video spend
+- [Multi-Model API Examples](https://github.com/luyx-66/multi-model-api-examples) — chat, image, and video request examples
+- [Batch AI Image Generation](https://github.com/luyx-66/batch-ai-image-generation) — retries, concurrency, and resumable outputs
+
 ## Test
 
 ```bash
