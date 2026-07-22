@@ -45,6 +45,12 @@ Only load-test systems you own or are authorized to test. Start small and stay w
 python -m unittest discover -s tests
 ```
 
+<!-- apimart-toolkit-nav:start -->
+## Project directory
+
+This repository is part of the APIMART open-source AI API toolkit. Browse the complete catalog of provider benchmarks, gateway checks, model examples, and cost tools on the [luyx-66 project profile](https://github.com/luyx-66).
+<!-- apimart-toolkit-nav:end -->
+
 ## License
 
 MIT
