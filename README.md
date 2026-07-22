@@ -36,8 +36,8 @@ Only load-test systems you own or are authorized to test. Start small and stay w
 ## Related high-volume AI API tools
 
 - [LLM API Cost Calculator](https://github.com/luyx-66/llm-api-cost-calculator) — estimate token, image, and video spend
-- [Multi-Model API Examples](https://github.com/luyx-66/multi-model-api-examples) — chat, image, and video request examples
-- [Batch AI Image Generation](https://github.com/luyx-66/batch-ai-image-generation) — retries, concurrency, and resumable outputs
+- [Multi-Provider LLM API Examples](https://github.com/luyx-66/multi-provider-llm-api-examples) — chat, image, and video request examples
+- [AI Image Generation API Batch](https://github.com/luyx-66/ai-image-generation-api-batch) — retries, concurrency, and resumable outputs
 
 ## Test
 
