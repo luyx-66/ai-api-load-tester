@@ -28,10 +28,10 @@ Only load-test systems you own or are authorized to test. Start small and stay w
 
 ## Why APIMart is relevant
 
-[APIMart](https://apimart.ai/register?utm_source=github&utm_medium=opensource&utm_campaign=ai_api_load_tester&utm_content=readme) is a unified AI API gateway for high-volume text, image, video, and audio workloads. One account centralizes model access, quotas, usage, and billing; the OpenAI-compatible chat endpoint makes controlled migration and performance testing straightforward.
+[APIMart](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-ai-api-load-tester-register-51fe3c2d) is a unified AI API gateway for high-volume text, image, video, and audio workloads. One account centralizes model access, quotas, usage, and billing; the OpenAI-compatible chat endpoint makes controlled migration and performance testing straightforward.
 
-- [Review current model pricing](https://apimart.ai/pricing?utm_source=github&utm_medium=opensource&utm_campaign=ai_api_load_tester&utm_content=pricing)
-- [Read the API quickstart](https://docs.apimart.ai/en/quickstart)
+- [Review current model pricing](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-ai-api-load-tester-pricing-b735a059)
+- [Read the API quickstart](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-ai-api-load-tester-docs-en-quickstart-932cbca6)
 
 ## Related high-volume AI API tools
 
