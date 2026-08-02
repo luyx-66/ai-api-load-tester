@@ -2,6 +2,16 @@
 
 A small, auditable load-testing CLI for **OpenAI-compatible chat APIs**. Measure success rate, throughput, p50/p95 latency, HTTP errors, and rate-limit responses before moving a high-volume AI workload into production.
 
+<!-- APIMART-P3-START -->
+
+> **APIMART · multi-model AI API gateway**
+>
+> Need one OpenAI-compatible API entry point for multiple model providers? **[Try APIMART as an AI API gateway](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-ai-api-load-tester-register)**
+>
+> Transparent disclosure: this repository is maintained by APIMART.
+
+<!-- APIMART-P3-END -->
+
 ## Features
 
 - Configurable request count and concurrency
